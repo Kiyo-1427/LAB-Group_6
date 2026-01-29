@@ -5,10 +5,10 @@
 
 | STT | MSSV      | Họ và Tên             | Email                               | Nhiệm vụ                         |
 |-----|-----------|------------------------|--------------------------------------|--------------------------------|
-| 21  | B2509663  | Đặng Quốc Huy          | HuyB2509663@student.ctu.edu.vn       |                                |
+| 21  | B2509663  | Đặng Quốc Huy          | HuyB2509663@student.ctu.edu.vn       | Phần 2                         |
 | 22  | B2509707  | Danh Thị Phương Uyên   | UyenB2509707@student.ctu.edu.vn      | Phần 3                         |
-| 23  | B2509709  | Lý Tiến Vĩ             | ViB2509709@student.ctu.edu.vn        |                                |
-| 24  | B2509724  | Nguyễn Minh Hào        | HaoB2509724@student.ctu.edu.vn       | Phần 1.1                               |
+| 23  | B2509709  | Lý Tiến Vĩ             | ViB2509709@student.ctu.edu.vn        | Phần 1.2                       |
+| 24  | B2509724  | Nguyễn Minh Hào        | HaoB2509724@student.ctu.edu.vn       | Phần 1.1                       |
 
 
 ## 📂 Nội dung Repo
